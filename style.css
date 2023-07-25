@@ -14,5 +14,6 @@ p {
 h1 {
     color: gold;
     background-color: black;
-    font-family:fantasy;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
