@@ -3,6 +3,7 @@
     font-weight: bold;
     color:antiquewhite;
     background-color: blue;
+
 }
 
 p {
@@ -19,5 +20,8 @@ h1 {
 }
 
 ol{
-    font-style:italic;
+    font-style:italic; 
+    margin: 10px;
+    border:20px;
+    border-color: blue;
 }
