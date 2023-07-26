@@ -19,9 +19,14 @@ h1 {
     text-align: center;
 }
 
+
+h2{
+    border: 4px dotted royalblue;
+}
 ol{
     font-style:italic; 
-    margin: 10px;
+    margin-left: 100px;
     border:20px;
     border-color: blue;
+    padding: 25px;
 }
